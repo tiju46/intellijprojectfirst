@@ -20,6 +20,7 @@ public class Loginpage extends Baseclass {
 
 
     public Loginpage(){
+
         PageFactory.initElements(driver,this);
     }
 
